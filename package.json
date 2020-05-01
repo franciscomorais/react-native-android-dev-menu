@@ -5,6 +5,9 @@
   "description": "",
   "main": "index.js",
   "keywords": [
+    "android",
+    "devmenu",
+    "devtools",
     "react-native"
   ],
   "author": "",
