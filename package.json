@@ -1,7 +1,7 @@
 
 {
   "name": "react-native-dev-menu-android",
-  "version": "1.0.7",
+  "version": "1.0.9",
   "description": "",
   "main": "index.js",
   "keywords": [
@@ -16,7 +16,7 @@
     "type": "git",
     "url": "git+https://github.com/franciscomorais/react-native-android-dev-menu.git",
     "baseUrl": "https://github.com/franciscomorais/react-native-android-dev-menu"
-  }
+  },
   "peerDependencies": {
     "react-native": "^0.41.2"
   }
