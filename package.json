@@ -12,6 +12,11 @@
   ],
   "author": "",
   "license": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/franciscomorais/react-native-android-dev-menu.git",
+    "baseUrl": "https://github.com/franciscomorais/react-native-android-dev-menu"
+  }
   "peerDependencies": {
     "react-native": "^0.41.2"
   }
